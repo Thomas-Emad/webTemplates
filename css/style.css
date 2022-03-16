@@ -150,7 +150,7 @@ header .container nav ul li a:hover {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  background-image: url(../image/eberhard-grossgasteiger-A7V1-rGDNkg-unsplash.jpg);
+  background-image: url(../image/Three.webp);
 }
 .lading .container .box {
   position: absolute;
@@ -433,7 +433,7 @@ header .container nav ul li a:hover {
   width: 250px;
   height: 300px;
   background: var(--text-color)
-    url(../image/jakob-owens-CiUR8zISX60-unsplash.jpg) no-repeat center;
+    url(../image/Two.webp) no-repeat center;
   background-size: cover;
   cursor: pointer;
   border-radius: 10px;
